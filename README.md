@@ -1,1 +1,1 @@
-This is a demo application of maven
+This is a demo app
